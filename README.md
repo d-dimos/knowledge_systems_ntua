@@ -1,6 +1,6 @@
 # Knowledge Systems and Technologies (2020-2021)
 
-This repository contains the **solutions** and **code implementations** to the theoretic and programming sets of the **Knowledge Systems and Technologies** lecture series held by NTUA during the 8th semester (Spring 2021) of the ECE undergraduate course. In short, the contents of this repo concern the following topics:
+This repository contains the **solutions** and **code implementations** to the theoretic and programming sets of the **Knowledge Systems and Technologies** lecture series held by NTUA during the 8th semester (Spring 2021) of the ECE undergraduate course. In short, the contents of this repository concern the following topics:
 
 - Description Logics
 - Automatic Reasoning Algorithms
